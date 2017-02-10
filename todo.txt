@@ -1,0 +1,1 @@
+1.用单一request来实现自动登陆，不需借助firefox。
